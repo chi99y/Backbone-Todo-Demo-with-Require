@@ -1,6 +1,7 @@
 //-----------------------------------------------------------------------
 // 	Backbone-Todo-Demo-with-Require
 //  
+//	Date: 11.29.2011
 //	Author: Chin S. Huang / email: chin.cog@gmail.com
 //  Credits: Jérôme Gravel-Niquet -- original author of the Todo App Demo		 
 //-----------------------------------------------------------------------
@@ -8,7 +9,7 @@
 
 Description:
 -----------
-This repo is contains a modified version of the Todo demo application originally written by Jérôme Gravel-Niquet and linked in the official Backbone.js website (http://documentcloud.github.com/backbone/).  
+This repo contains a modified version of the Todo demo application originally written by Jérôme Gravel-Niquet and linked in the official Backbone.js website (http://documentcloud.github.com/backbone/).  
 
-The goal was to use Require.js (http://requirejs.org/) to organize the code into separate javascript code that resembles the approach taken by traditional Object Oriented programming styles especially given the MVC framework provided by Backbone.js.
+The goal was to use Require.js (http://requirejs.org/) to organize the code into separate javascript code as seen in more traditional Object Oriented programming styles.  This way, we can explore the use of Backbone.js in a team oriented programming environment to develop more complicated web applications.
 
